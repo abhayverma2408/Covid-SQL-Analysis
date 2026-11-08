@@ -53,4 +53,4 @@ I checked fixes by comparing results across queries. Totals for the same country
 - A query that runs without errors is not necessarily correct. Checking results against raw rows is part of the work.
 
 ## How to run
-Import both files into a SQL Server database named `portfolio_project` as `CovidDeaths` and `CovidVaccinations`, then run `PPQ2_practice.sql`. The `CREATE VIEW` statement must be run on its own after a `GO`.
+Import both files into a SQL Server database named `portfolio_project` as `CovidDeaths` and `CovidVaccinations`, then run `PPQ2_practice.sql`. 
